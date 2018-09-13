@@ -79,3 +79,5 @@ We would like to thank everyone who contributed to this library. If you find our
 - **Quipro** (5 USD)
 
 - **David Langheiter** (5 EUR)
+
+--**Capybara** (3 EUR)
